@@ -27,8 +27,8 @@ from aiogram.types import (
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # ═══════════════════════ КОНФИГ (только это правишь в коде) ═══════════════════════
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
-ADMIN_IDS = {123456789}  # id админов, можно несколько: {111, 222}
+BOT_TOKEN = "8720749233:AAETdVr2eXh7HCQpF6BUJRQTXxdNLFO1Hhs"
+ADMIN_IDS = {8709632020}  # id админов, можно несколько: {111, 222}
 # ═════════════════════════════════════════════════════════════════════════════════
 
 DB_PATH = "shop.db"
